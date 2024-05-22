@@ -9,11 +9,15 @@ WordMystery challenges you to guess a hidden word by trying different letters. I
 # Features
 
 Interactive Gameplay: Enter letters to guess the hidden word.
+<br>
 Hints and Tips: Get clues to help you find the correct word.
+<br>
 Simple Design: Clean and easy-to-use interface.
 
 # How to Play
 
 Guess the Letters: Type a letter to see if it’s in the word.
+<br>
 Find the Word: Keep guessing letters until you reach the limit.
+<br>
 Win or Try Again: If you guess the word correctly, you win! If not, try again.
